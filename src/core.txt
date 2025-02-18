@@ -1,2 +1,3 @@
 🧊 A curated list of OLAP databases, data lake tools, columnar engines, and analy
 # clarify the control flow
+# handle the edge case from the last release
